@@ -1,0 +1,1 @@
+ response.body.current.weather_descriptions[0] +". current temperature is " + response.body.current.temperature +" but it's feels like "+ response.body.current.feelslike)
