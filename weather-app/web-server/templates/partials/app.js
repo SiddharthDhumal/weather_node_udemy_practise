@@ -1,6 +1,6 @@
 const request = require('postman-request');
-const geocode = require('./utils/geocode');
-const forecast = require('./utils/forecast');
+const geocode = require('../../../utils/geocode');
+const forecast = require('../../../utils/forecast');
 // const url = "http://api.weatherstack.com/current?access_key=3e44e5eedd7d95823ce19d7ebbc1a951&query=37.8267,-122.4233&units=f";
 
 // request({url:url, json:true},(error,response)=>{
